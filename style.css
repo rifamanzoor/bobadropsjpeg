@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+    text-align:center;
+    color: red;
+    font-family:'fantasy', 'Courier New', Courier, monospace
+}
+
+img{
+    border-radius:20px;
+    max-height: 550px;
+}
